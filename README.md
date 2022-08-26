@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/36993664/44917039-f208ad80-ad3f-11e8-85e9-e29489f0ffb4.png">
+  <img src="http://user-images.githubusercontent.com/36993664/44917039-f208ad80-ad3f-11e8-85e9-e29489f0ffb4.png">
 </p>
 
 <p align="center">
-<a href="https://circleci.com/gh/cnwangjie/better-onetab"><img src="https://img.shields.io/circleci/project/github/cnwangjie/better-onetab/master.svg?style=flat-square" alt="CircleCI"></a>
-<a href="https://chrome.google.com/webstore/detail/better-onetab/eookhngofldnbnidjlbkeecljkfpmfpg"><img src="https://img.shields.io/chrome-web-store/v/eookhngofldnbnidjlbkeecljkfpmfpg.svg?style=flat-square" alt="Chrome Web Store"></a>
-<a href="https://addons.mozilla.org/firefox/addon/better-onetab/"><img src="https://img.shields.io/amo/v/better-onetab.svg?style=flat-square" alt="Mozilla Add-ons"></a>
-<img src="https://img.shields.io/github/license/cnwangjie/better-onetab.svg?style=flat-square" alt="GitHub">
-<img src="https://img.shields.io/github/last-commit/cnwangjie/better-onetab.svg?style=flat-square" alt="GitHub last commit">
-<a href="https://gitter.im/better-onetab/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge"><img src="https://img.shields.io/gitter/room/better-onetab/Lobby.svg?style=flat-square" alt="Join the chat at https://gitter.im/better-onetab/Lobby"></a>
+<a href="https://circleci.com/gh/cnwangjie/better-onetab"><img src="http://img.shields.io/circleci/project/github/cnwangjie/better-onetab/master.svg?style=flat-square" alt="CircleCI"></a>
+<a href="https://chrome.google.com/webstore/detail/better-onetab/eookhngofldnbnidjlbkeecljkfpmfpg"><img src="http://img.shields.io/chrome-web-store/v/eookhngofldnbnidjlbkeecljkfpmfpg.svg?style=flat-square" alt="Chrome Web Store"></a>
+<a href="https://addons.mozilla.org/firefox/addon/better-onetab/"><img src="http://img.shields.io/amo/v/better-onetab.svg?style=flat-square" alt="Mozilla Add-ons"></a>
+<img src="http://img.shields.io/github/license/cnwangjie/better-onetab.svg?style=flat-square" alt="GitHub">
+<img src="http://img.shields.io/github/last-commit/cnwangjie/better-onetab.svg?style=flat-square" alt="GitHub last commit">
+<a href="https://gitter.im/better-onetab/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge"><img src="http://img.shields.io/gitter/room/better-onetab/Lobby.svg?style=flat-square" alt="Join the chat at https://gitter.im/better-onetab/Lobby"></a>
 </p>
 
 [中文README](./README.zh.md)
@@ -28,6 +28,7 @@ More beautiful and more feature.
  - [x] Options
  - [x] Drag and drop re-ordering
  - [x] Data & Options sync
+ - [ ] WebDAV support
  - [x] Import & Export
  - [x] Add stored tabs to history
  - [x] I18N support (only English & Chinese currently)
